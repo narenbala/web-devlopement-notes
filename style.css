@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+    color: darkblue;
+    font-family: cursive;
+    margin-top: 150px;
+    margin-left: 450px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color: darkblue;
+    font-size: 25px;
+    padding: 8px 25px;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    margin-left: 180px;
+}
+h1{
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+ul{
+    list-style-position: outside;
+    margin-bottom: 70px;
+}
+li{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
